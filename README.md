@@ -3,7 +3,7 @@
 </br>
 </br>
 
-<h1 align="center">GitHub Explorer Ignite</h1>
+<h1 align="center">GitHub Explorer</h1>
 <p align="center">GitHub explorer é um projeto realizado no primeiro módolo do bootcap ignite realizado pela @Rocketseat.</p>
 
 ## 💡 O que é?
