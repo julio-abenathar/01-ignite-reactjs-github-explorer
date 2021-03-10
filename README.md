@@ -4,10 +4,10 @@
 </br>
 
 <h1 align="center">GitHub Explorer Ignite</h1>
-<p align="center">GitHub explorer application made in the first module of the Ignite Bootcamp provided by @Rocketseat in the React Track.</p>
+<p align="center">GitHub explorer é um projeto realizado no primeiro módolo do bootcap ignite realizado pela @Rocketseat.</p>
 
 ## 💡 O que é?
-GitHub explorer é um projeto realizado no primeiro módolo do bootcap ignite realizado pela @Rocketseat.
+GitHub explorer é uma pequena aplicação construida no módulo I do bootcamp ignite da @Rocketseat para aprender os fundamentos do ReactJS
 
 ## 🖥 Setup
 - Clone o repositório 
